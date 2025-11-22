@@ -38,17 +38,3 @@ A portfolio project demonstrating Power BI skills in:
 * Data modeling
 * Visual analytics
 * Business insight extraction
-
----
-
-## 📥 How to Use
-
-1. Download the `.pbix` file
-2. Open in **Power BI Desktop**
-3. Interact with filters & visuals to explore the data
-
----
-
-## 🙌 Thank You!
-
-Feel free to explore and reuse the dashboard for learning.
